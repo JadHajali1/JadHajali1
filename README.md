@@ -1,36 +1,22 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=JadHajali1.JadHajali1" />
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
-</h1>
+<h3 align="center">🌟 Full Stack Web Developer From Lebanon 🌟
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+I'm currently taking the FCS course at SE Factory, where I'm honing my skills to become a Full Stack Web Developer. I’m passionate about building dynamic and responsive web applications, and I'm excited to dive into both front-end and back-end technologies.</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
-
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/JadHajali1/JadHajali1/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
- </div>
+🔧 Technologies I'm Learning:**python, algorithms, Data Structure, objective oriented**
  
-<div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://JadHajali1.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
+ 💡 Let's Connect: I'm always eager to collaborate and learn from others. Feel free to reach out if you want to chat about development, share tips, or work on a project together!
+
+ 📫 Email me at **[jadhajali773@gmail.com](mailto:jadhajali773@gmail.com)**
 </div>
+
+
+ <hr/>
 
  <hr/>
  
