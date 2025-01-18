@@ -17,8 +17,6 @@ I'm currently taking the FCS course at SE Factory, where I'm honing my skills to
 
 
  <hr/>
-
- <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
