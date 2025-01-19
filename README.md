@@ -41,7 +41,7 @@ I specialize in crafting both front-end and back-end solutions, focusing on user
 <br>
 <div align="center">
   ![JadHajali1's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JadHajali1&theme=vue-dark&hide_border=true)
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=JadHajali1&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  ![JadHajali1's Stats](https://github-readme-stats.vercel.app/api?username=JadHajali1&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JadHajali1&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
