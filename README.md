@@ -42,8 +42,7 @@ I specialize in crafting both front-end and back-end solutions, focusing on user
 <div align="center">
  ![JadHajali1's Stats](https://github-readme-stats.vercel.app/api?username=JadHajali1&theme=bear&show_icons=true&hide_border=false&count_private=true)
  ![JadHajali1's Stats](https://github-readme-stats.vercel.app/api?username=JadHajali1&theme=bear&show_icons=true&hide_border=false&count_private=true)
- ![JadHajali1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/? 
- username=JadHajali1&theme=bear&show_icons=true&hide_border=false&layout=compact)
+ ![JadHajali1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JadHajali1&theme=bear&show_icons=true&hide_border=false&layout=compact)
 
 
 </div>
