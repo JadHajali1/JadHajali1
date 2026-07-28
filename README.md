@@ -21,8 +21,8 @@
 * **Tools & Platforms:** Git, GitHub, VS Code, phpMyAdmin, Cisco Networking
 * **Concepts:** REST APIs, Clean Architecture, SEO Optimization, Database Design
 
- 📫 Email me at **[jadhajali773@gmail.com](mailto:jadhajali773@gmail.com)**
- 📫 My LinkedIn **[Jad Hajali](mailto:www.linkedin.com/in/jad-hajali-898320289)**
+ *📫 Email me at **[jadhajali773@gmail.com](mailto:jadhajali773@gmail.com)**
+ *📫 My LinkedIn **[Jad Hajali](mailto:www.linkedin.com/in/jad-hajali-898320289)**
 </div>
 
 
