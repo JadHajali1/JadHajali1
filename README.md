@@ -1,16 +1,25 @@
 
-<h3 align="center">🌟 Full Stack Web Developer From Lebanon 🌟
+<h3 align="center">🌟 Full Stack Web Developer And Flutter Front-end From Lebanon 🌟
 
-I specialize in crafting both front-end and back-end solutions, focusing on user-centric design and efficient code to deliver optimal web experiences. With a solid foundation in web technologies, I am committed to delivering quality software and continuously improving my skills in the ever-evolving web development landscape. </h3>
+<p><strong>Computer Science Graduate | Mobile (Flutter) & Web (PHP, JS) | Network & IT Background</strong></p>
+  <p>Building responsive web platforms, cross-platform mobile apps, and managing end-to-end cloud deployments.</p>
+</div>
 
-<br/>
+<hr />
 
-<div align="center">
- 
- 
-🔧 Technologies I'm Learning:**python, algorithms, Data Structure, objective oriented**
- 
- 💡 Let's Connect: I'm always eager to collaborate and learn from others. Feel free to reach out if you want to chat about development, share tips, or work on a project together!
+### 💡 About Me
+* 🎓 **CS Graduate & IT Specialist** with hands-on production experience in web and mobile development.
+* 📱 **Mobile Stack:** Flutter, Dart, Clean Architecture, State Management (Provider).
+* 🌐 **Web & Backend Stack:** HTML5, CSS3, JavaScript, PHP, MySQL / phpMyAdmin.
+* 🛠️ **Infrastructure & Network:** Cisco trained, server hosting, domain administration, and cloud deployment.
+* 🌍 **Languages:** Arabic (Native) | English (Professional).
+
+---
+
+### 🛠️ Tech Stack & Tools
+* **Languages & Frameworks:** Flutter, Dart, JavaScript, PHP, HTML5, CSS3, SQL
+* **Tools & Platforms:** Git, GitHub, VS Code, phpMyAdmin, Cisco Networking
+* **Concepts:** REST APIs, Clean Architecture, SEO Optimization, Database Design
 
  📫 Email me at **[jadhajali773@gmail.com](mailto:jadhajali773@gmail.com)**
 </div>
