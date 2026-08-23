@@ -2,7 +2,8 @@
 <h3 align="center">🌟 Full Stack Web Developer And Flutter Front-end From Lebanon 🌟
 
 <p><strong>Computer Science Graduate | Mobile (Flutter) & Web (PHP, JS) | Network & IT Background</strong></p>
-  <p>Building responsive web platforms, cross-platform mobile apps, and managing end-to-end cloud deployments.</p>
+  <p>Building responsive web platforms, cross-platform mobile apps, and managing end-to-end deployments.</p>
+  <p>In trainig with Angular and ASP.NET.</p>
 </div>
 
 <hr />
